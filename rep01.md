@@ -72,6 +72,7 @@
 <input type=”checkbox” name=”q1” value=”項目1” checked> 項目1
 <input type=”checkbox” name=”q2” value=”項目2”> 項目2
 <input type=”checkbox” name=”q3” value=”項目3”> 項目3
+
 「Markdown記法」
 - [x] 項目1
 - [ ] 項目2
